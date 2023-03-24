@@ -1,2 +1,1 @@
-# ml-course-1
-Machine learning course (beginners)
+# Machine learning course (basics)
