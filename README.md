@@ -26,4 +26,4 @@ Po wysłaniu notebooka możemy uruchomić wszytskie komórki wybierając menu Ru
 - wszytskie pliki które wyślemy do notebooka (np. pliki z danymi) przepadną po zamknięciu. Nie dotyczy to samych notebooków
 - najlepiej ładować pliki csv z internetu (lokalizacji HTTP)
 - można też użyć google drive do przechowywania rzeczy. w notebooku '01 - Loading Data with Pandas' jest instrukcja jak to zrobić.
-- każdą komórkę można uruchomić oddzielnie ale warto co jakiś czas uruchomić cały notebook (Runtime -> Run all)
+- każdą komórkę notebooka można uruchomić oddzielnie ale warto co jakiś czas uruchomić cały notebook (Runtime -> Run all)
