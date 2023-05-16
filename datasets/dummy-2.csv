@@ -1,8 +1,8 @@
-Id,Day of the week,Mood
-1,Monday,Low
-2,Tuesday,Medium
-3,Wednesday,Medium
-4,Thursday,High
-5,Friday,High
-6,Saturday,High
-7,Sunday,Low
+Id,Item,Price
+1,New,Medium
+2,Second-hand,Medium
+3,New,Medium
+4,New,High
+5,Second-hand,Low
+6,Second-hand,Low
+7,New,Medium
